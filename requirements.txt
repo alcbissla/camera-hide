@@ -1,0 +1,10 @@
+Flask
+requests
+beautifulsoup4
+selenium
+chromedriver-autoinstaller
+yt-dlp
+python-dotenv
+telegram
+werkzeug
+cryptography
