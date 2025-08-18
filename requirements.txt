@@ -5,6 +5,6 @@ selenium
 chromedriver-autoinstaller
 yt-dlp
 python-dotenv
-telegram
+python-telegram-bot==20.3
 werkzeug
 cryptography
